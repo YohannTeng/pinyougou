@@ -13,8 +13,8 @@ html + css
 
 #### 安装教程
 
-1.  下载pinyougou压缩包
-2.  打开index.html
+1.  git clone
+2.  open index.html
 
 #### 使用说明
 
